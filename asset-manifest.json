@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fe-form/static/css/main.e6c13ad2.css",
+    "main.js": "/fe-form/static/js/main.20f4db87.js",
+    "static/js/453.8af71a2d.chunk.js": "/fe-form/static/js/453.8af71a2d.chunk.js",
+    "index.html": "/fe-form/index.html",
+    "main.e6c13ad2.css.map": "/fe-form/static/css/main.e6c13ad2.css.map",
+    "main.20f4db87.js.map": "/fe-form/static/js/main.20f4db87.js.map",
+    "453.8af71a2d.chunk.js.map": "/fe-form/static/js/453.8af71a2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.20f4db87.js"
+  ]
+}
